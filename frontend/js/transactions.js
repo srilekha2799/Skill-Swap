@@ -1,5 +1,5 @@
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://skill-swap-backend-8c7c.onrender.com";
 
 const transactionList = document.getElementById("transactionList");
 const emptyTransactions = document.getElementById("emptyTransactions");
