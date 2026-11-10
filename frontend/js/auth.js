@@ -1,5 +1,5 @@
 
-const API_BASE_URL = "https://skillswap-crt-project.onrender.com";
+const API_BASE_URL = "https://skill-swap-backend-8c7c.onrender.com";
 
 // Save the authenticated user's session information
 function saveAuthSession(data) {
